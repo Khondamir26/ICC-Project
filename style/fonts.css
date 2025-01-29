@@ -1,0 +1,16 @@
+@font-face{
+    font-family: 'NL';
+    src: url(../fonts/HelveticaNeue_Light.otf);
+}
+@font-face{
+    font-family: 'NR';
+    src: url(../fonts/HelveticaNeue_Roman.otf);
+}
+@font-face{
+    font-family: 'NM';
+    src: url(../fonts/HelveticaNeue_Medium.otf);
+}
+@font-face{
+    font-family: 'NT';
+    src: url(../fonts/HelveticaNeue_Thin.otf);
+}
